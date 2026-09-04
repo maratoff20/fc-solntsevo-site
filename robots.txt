@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://fcsolntsevo.ru
+Sitemap: https://fcsolntsevo.ru/sitemap.xml
